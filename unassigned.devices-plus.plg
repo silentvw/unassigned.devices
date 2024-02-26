@@ -17,7 +17,7 @@
 		pluginURL="&pluginURL;"
 		support="&supportURL;"
 		icon="unlink"
-		min="6.11.0">
+		min="6.9.0">
 
 <CHANGES>
 ##&name;
