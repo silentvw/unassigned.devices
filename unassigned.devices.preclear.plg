@@ -16,7 +16,7 @@
 		pluginURL="&pluginURL;"
 		support="&supportURL;"
 		icon="icon-preclear"
-		min="6.11.0">
+		min="6.9.0">
 
 <CHANGES>
 ###&name;
